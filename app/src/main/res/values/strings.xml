@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMapBoxGPXapp</string>
+    <string name="focusLocations_description">To focus again back on the marker</string>
+
+</resources>
